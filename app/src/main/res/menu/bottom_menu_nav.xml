@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bnbMenuHome"
+        android:title="Home Icon"
+        android:icon="@drawable/ic_home_bnb"/>
+
+    <item android:id="@+id/bnbMenuSearch"
+        android:title="Search Icon"
+        android:icon="@drawable/ic_search_bnb"/>
+
+    <item android:id="@+id/bnbMenuPlaceholder"
+         android:title=""/>
+
+    <item android:id="@+id/bnbMenuPerson"
+        android:title="Profile Icon"
+        android:icon="@drawable/ic_person_bnb"/>
+
+    <item android:id="@+id/bnbMenuSetting"
+        android:title="Setting Icon"
+        android:icon="@drawable/ic_settings_bnb"/>
+
+</menu>
